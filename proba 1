@@ -1,5 +1,6 @@
 <?php
 
 echo "Aurora face prima proba";
+echo "eu sunt primul invitat";
 
 ?>
